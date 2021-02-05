@@ -1,2 +1,2 @@
 # Barter-System
-Class 12 IP project; Book sharing system for schools
+A project under development by RVS Abhinav.
